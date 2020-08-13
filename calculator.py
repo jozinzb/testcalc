@@ -17,6 +17,7 @@ def multiply(first_term, second_term):
     """Multiply two values."""
     return first_term * second_term
 
+
 def divide(first_term, second_term):
     """Divide two values."""
     return first_term / second_term
